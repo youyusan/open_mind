@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-24T08:27:10.459Z" agent="Mozilla/5.0 (iPad; CPU OS 17_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/121.0.6167.66 Mobile/15E148 Safari/604.1" etag="GuChXOfT6UGx7M8LWpE1" version="23.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-24T08:32:36.709Z" agent="Mozilla/5.0 (iPad; CPU OS 17_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/121.0.6167.66 Mobile/15E148 Safari/604.1" etag="_9iFyd2OrRVBu10-gbDT" version="23.0.0" type="github">
   <diagram name="第 1 页" id="B83zCpAml06aFIMZX0r3">
-    <mxGraphModel dx="660" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1487" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -57,6 +57,15 @@
         </mxCell>
         <mxCell id="XxJGp6y9zTa0XZqB4tud-13" value="预测模型" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wkrBox2u_KVxkJhc_cft-48" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="XxJGp6y9zTa0XZqB4tud-19" target="wkrBox2u_KVxkJhc_cft-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wkrBox2u_KVxkJhc_cft-51" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="XxJGp6y9zTa0XZqB4tud-19" target="wkrBox2u_KVxkJhc_cft-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wkrBox2u_KVxkJhc_cft-52" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="XxJGp6y9zTa0XZqB4tud-19" target="wkrBox2u_KVxkJhc_cft-50">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XxJGp6y9zTa0XZqB4tud-19" value="反馈" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="400" width="80" height="40" as="geometry" />
@@ -299,6 +308,15 @@
         </mxCell>
         <mxCell id="wkrBox2u_KVxkJhc_cft-44" value="15%新鲜感" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1161" y="1400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wkrBox2u_KVxkJhc_cft-46" value="动力来源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wkrBox2u_KVxkJhc_cft-49" value="快感误区" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wkrBox2u_KVxkJhc_cft-50" value="奖赏预测误差效应" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="600" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
