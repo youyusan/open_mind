@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-26T13:23:43.077Z" agent="Mozilla/5.0 (iPad; CPU OS 17_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/121.0.6167.66 Mobile/15E148 Safari/604.1" etag="YViLvmMBikZDx8M7w0YW" version="23.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-26T13:24:56.569Z" agent="Mozilla/5.0 (iPad; CPU OS 17_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/121.0.6167.66 Mobile/15E148 Safari/604.1" etag="Qy7IkaM0PejwNH_mUfLI" version="23.0.0" type="github">
   <diagram name="第 1 页" id="B83zCpAml06aFIMZX0r3">
-    <mxGraphModel dx="1835" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2439" dy="1144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -116,13 +116,13 @@
         <mxCell id="wkrBox2u_KVxkJhc_cft-66" value="通过" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" parent="1" source="XxJGp6y9zTa0XZqB4tud-19" target="wkrBox2u_KVxkJhc_cft-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XxJGp6y9zTa0XZqB4tud-19" value="反馈" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="XxJGp6y9zTa0XZqB4tud-19" value="反馈" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="200" y="400" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XxJGp6y9zTa0XZqB4tud-68" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="520" y="280" width="400" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="XxJGp6y9zTa0XZqB4tud-18" value="节能" style="rounded=0;whiteSpace=wrap;html=1;" parent="XxJGp6y9zTa0XZqB4tud-68" vertex="1">
+        <mxCell id="XxJGp6y9zTa0XZqB4tud-18" value="节能" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="XxJGp6y9zTa0XZqB4tud-68" vertex="1">
           <mxGeometry y="120" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XxJGp6y9zTa0XZqB4tud-25" value="认知过程" style="rounded=0;whiteSpace=wrap;html=1;" parent="XxJGp6y9zTa0XZqB4tud-68" vertex="1">
@@ -338,7 +338,7 @@
         <mxCell id="P6tir3zQ8PAI8nWjBx2F-29" value="结果与期望的差距" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-480" y="680" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XxJGp6y9zTa0XZqB4tud-22" value="稳定" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="XxJGp6y9zTa0XZqB4tud-22" value="稳定" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="520" y="920" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XxJGp6y9zTa0XZqB4tud-38" value="一致性" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -435,7 +435,7 @@
         <mxCell id="wkrBox2u_KVxkJhc_cft-44" value="15%新鲜感" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="-281" y="1160" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XxJGp6y9zTa0XZqB4tud-71" value="预测" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
+        <mxCell id="XxJGp6y9zTa0XZqB4tud-71" value="预测" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="200" y="920" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XxJGp6y9zTa0XZqB4tud-75" value="可塑性" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
