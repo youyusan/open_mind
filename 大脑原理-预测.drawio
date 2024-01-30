@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T14:59:32.995Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Zt8tCvzCUMuGytDE2UOv" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-30T15:04:28.481Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="6AqZXPqXGA2VUvfBn-4r" version="23.0.2" type="github">
   <diagram name="第 1 页" id="XvF2aFDsFJZ21GPqTzCf">
     <mxGraphModel dx="1434" dy="4253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -155,13 +155,12 @@
         <mxCell id="URVeLnV5q5m96tv4H8P8-52" value="真实世界" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="680" y="-2680" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="URVeLnV5q5m96tv4H8P8-62" value="存在100秒误差" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="URVeLnV5q5m96tv4H8P8-59" target="URVeLnV5q5m96tv4H8P8-52">
-          <mxGeometry x="0.0016" relative="1" as="geometry">
+        <mxCell id="URVeLnV5q5m96tv4H8P8-108" value="100秒误差" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="URVeLnV5q5m96tv4H8P8-59" target="URVeLnV5q5m96tv4H8P8-52">
+          <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="959.5" y="-2620" />
-              <mxPoint x="720.5" y="-2620" />
+              <mxPoint x="960" y="-2620" />
+              <mxPoint x="720" y="-2620" />
             </Array>
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="URVeLnV5q5m96tv4H8P8-59" value="幻象世界" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -240,6 +239,12 @@
         </mxCell>
         <mxCell id="URVeLnV5q5m96tv4H8P8-99" value="15%新鲜感" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="-3040" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="URVeLnV5q5m96tv4H8P8-107" value="构建" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="URVeLnV5q5m96tv4H8P8-106" target="URVeLnV5q5m96tv4H8P8-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="URVeLnV5q5m96tv4H8P8-106" value="前15秒&lt;br&gt;信息整合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1079.5" y="-3040" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
