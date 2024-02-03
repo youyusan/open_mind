@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-03T15:15:25.909Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="kzaGYD_byNNY5wrRcPfY" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-03T15:15:38.095Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="MF8L7nbgFAEsORouJMfK" version="23.1.1" type="github">
   <diagram name="第 1 页" id="7oRkRw5dxkfLAuNSu1dr">
     <mxGraphModel dx="1793" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -192,7 +192,7 @@
             <mxPoint x="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u05jXAo35an9eVSEJXm5-1" value="不同心理流派" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
+        <mxCell id="u05jXAo35an9eVSEJXm5-1" value="心理流派" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="280" y="840" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="u05jXAo35an9eVSEJXm5-8" value="认为" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="u05jXAo35an9eVSEJXm5-2" target="u05jXAo35an9eVSEJXm5-7" edge="1">
