@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-05T09:47:46.419Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="WU11wiGkmol4oUBEoGv0" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-05T09:52:28.624Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Tx2e8D8jEECL5SOEbenR" version="24.0.1" type="github">
   <diagram name="第 1 页" id="vI0Hot8flg9EuHW8-VnE">
     <mxGraphModel dx="1366" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -132,6 +132,9 @@
         </mxCell>
         <mxCell id="5wOt3SKDSh1R5U5241EJ-45" value="懒惰&amp;amp;诱惑" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="480" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iqPyQYdThvnjUmFii1H7-35" value="认为需要" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5wOt3SKDSh1R5U5241EJ-52" target="CYXBkTmdqxuOigH0eTCY-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5wOt3SKDSh1R5U5241EJ-52" value="缺乏意志力" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="560" width="80" height="40" as="geometry" />
@@ -517,19 +520,16 @@
         <mxCell id="CYXBkTmdqxuOigH0eTCY-13" value="更幸福" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="960" y="1560" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CYXBkTmdqxuOigH0eTCY-17" value="解决" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CYXBkTmdqxuOigH0eTCY-16" target="5wOt3SKDSh1R5U5241EJ-52" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="CYXBkTmdqxuOigH0eTCY-16" value="锻炼意志力" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="560" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5wOt3SKDSh1R5U5241EJ-53" value="合理化" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5wOt3SKDSh1R5U5241EJ-17" target="5wOt3SKDSh1R5U5241EJ-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CYXBkTmdqxuOigH0eTCY-23" value="视作" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="CYXBkTmdqxuOigH0eTCY-19" target="CYXBkTmdqxuOigH0eTCY-20" edge="1">
+        <mxCell id="CYXBkTmdqxuOigH0eTCY-23" value="视作" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CYXBkTmdqxuOigH0eTCY-19" target="CYXBkTmdqxuOigH0eTCY-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CYXBkTmdqxuOigH0eTCY-26" value="代表" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CYXBkTmdqxuOigH0eTCY-19" target="CYXBkTmdqxuOigH0eTCY-21" edge="1">
+        <mxCell id="CYXBkTmdqxuOigH0eTCY-26" value="代表" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="CYXBkTmdqxuOigH0eTCY-19" target="CYXBkTmdqxuOigH0eTCY-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CYXBkTmdqxuOigH0eTCY-19" value="意志力无限" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -539,10 +539,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CYXBkTmdqxuOigH0eTCY-20" value="挑战" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="480" width="80" height="40" as="geometry" />
+          <mxGeometry x="200" y="560" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CYXBkTmdqxuOigH0eTCY-21" value="自主力" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="560" width="80" height="40" as="geometry" />
+          <mxGeometry x="360" y="480" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iqPyQYdThvnjUmFii1H7-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iqPyQYdThvnjUmFii1H7-1" target="iqPyQYdThvnjUmFii1H7-5">
           <mxGeometry relative="1" as="geometry" />
@@ -571,7 +571,7 @@
         <mxCell id="iqPyQYdThvnjUmFii1H7-5" value="动力是否&lt;br&gt;大于阻力" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1521" y="180" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iqPyQYdThvnjUmFii1H7-7" value="自驱" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iqPyQYdThvnjUmFii1H7-7" value="充满激情" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1360" y="200" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iqPyQYdThvnjUmFii1H7-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iqPyQYdThvnjUmFii1H7-10" target="iqPyQYdThvnjUmFii1H7-12">
