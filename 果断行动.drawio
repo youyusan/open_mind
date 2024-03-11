@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-11T08:41:53.282Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="MciNPtA7WK8U1NfSBuC1" version="24.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-11T08:44:21.598Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="7Fj-sVQqOxfRbA133opK" version="24.0.4" type="github">
   <diagram name="第 1 页" id="MuDdyFz6Uz0_iKUM-lLz">
     <mxGraphModel dx="993" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -108,17 +108,32 @@
         <mxCell id="L5y41yA0uB5syiD4GcEw-44" value="精神内耗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="520" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="L5y41yA0uB5syiD4GcEw-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L5y41yA0uB5syiD4GcEw-46" target="L5y41yA0uB5syiD4GcEw-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L5y41yA0uB5syiD4GcEw-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L5y41yA0uB5syiD4GcEw-46" target="L5y41yA0uB5syiD4GcEw-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="L5y41yA0uB5syiD4GcEw-46" value="&lt;span style=&quot;text-align: left;&quot;&gt;大脑的&lt;br&gt;运转模式&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="640" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="L5y41yA0uB5syiD4GcEw-47" value="&lt;span style=&quot;text-align: left;&quot;&gt;大脑的&lt;br&gt;运转模式&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="L5y41yA0uB5syiD4GcEw-47" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;梳理零碎信息&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="600" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="L5y41yA0uB5syiD4GcEw-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L5y41yA0uB5syiD4GcEw-48" target="L5y41yA0uB5syiD4GcEw-47">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="L5y41yA0uB5syiD4GcEw-48" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;默认模式网络（DMN）&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="600" y="600" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="L5y41yA0uB5syiD4GcEw-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L5y41yA0uB5syiD4GcEw-49" target="L5y41yA0uB5syiD4GcEw-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="L5y41yA0uB5syiD4GcEw-49" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;中央执行网络&lt;br&gt;（CMD）&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="600" y="680" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="L5y41yA0uB5syiD4GcEw-50" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;激活任务区域&amp;amp;抑制其他&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="760" y="680" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
