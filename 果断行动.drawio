@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-02T02:55:19.932Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="GMUlC-Vz4dPHu78yKCHd" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-02T06:47:34.493Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="_wNsCKb9_SDbRq9hfTnm" version="24.2.1" type="github">
   <diagram name="第 1 页" id="MuDdyFz6Uz0_iKUM-lLz">
-    <mxGraphModel dx="1149" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="862" dy="368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -598,7 +598,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JtWcP5gSLX260bZ84ydv-31" value="&lt;div style=&quot;&quot;&gt;心流状态&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2040" y="1400" width="80" height="40" as="geometry" />
+          <mxGeometry x="2040" y="1320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JtWcP5gSLX260bZ84ydv-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JtWcP5gSLX260bZ84ydv-32" target="JtWcP5gSLX260bZ84ydv-34">
           <mxGeometry relative="1" as="geometry" />
@@ -612,7 +612,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JtWcP5gSLX260bZ84ydv-32" value="&lt;div style=&quot;&quot;&gt;短期诱惑&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2040" y="1480" width="80" height="40" as="geometry" />
+          <mxGeometry x="2040" y="1400" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JtWcP5gSLX260bZ84ydv-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JtWcP5gSLX260bZ84ydv-34" target="JtWcP5gSLX260bZ84ydv-69">
           <mxGeometry relative="1" as="geometry" />
@@ -624,30 +624,30 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JtWcP5gSLX260bZ84ydv-34" value="&lt;div style=&quot;&quot;&gt;沉浸&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1880" y="1440" width="80" height="40" as="geometry" />
+          <mxGeometry x="1880" y="1360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JtWcP5gSLX260bZ84ydv-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JtWcP5gSLX260bZ84ydv-37" target="JtWcP5gSLX260bZ84ydv-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JtWcP5gSLX260bZ84ydv-37" value="&lt;div style=&quot;&quot;&gt;成就感、满足感、激情&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2200" y="1400" width="80" height="40" as="geometry" />
+          <mxGeometry x="2200" y="1320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JtWcP5gSLX260bZ84ydv-41" value="&lt;div style=&quot;&quot;&gt;空虚、无聊&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2200" y="1480" width="80" height="40" as="geometry" />
+          <mxGeometry x="2200" y="1400" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JtWcP5gSLX260bZ84ydv-57" value="本身即" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JtWcP5gSLX260bZ84ydv-43" target="JtWcP5gSLX260bZ84ydv-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JtWcP5gSLX260bZ84ydv-43" value="&lt;div style=&quot;&quot;&gt;外在刺激&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2040" y="1560" width="80" height="40" as="geometry" />
+          <mxGeometry x="2040" y="1480" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JtWcP5gSLX260bZ84ydv-53" value="获得反馈" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JtWcP5gSLX260bZ84ydv-49" target="JtWcP5gSLX260bZ84ydv-37">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2200" y="1340" as="targetPoint" />
+            <mxPoint x="2200" y="1260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JtWcP5gSLX260bZ84ydv-49" value="&lt;div style=&quot;&quot;&gt;问题困难&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2040" y="1320" width="80" height="40" as="geometry" />
+          <mxGeometry x="2040" y="1240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JtWcP5gSLX260bZ84ydv-58" value="容易" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="JtWcP5gSLX260bZ84ydv-56" target="JtWcP5gSLX260bZ84ydv-41">
           <mxGeometry relative="1" as="geometry" />
@@ -656,7 +656,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JtWcP5gSLX260bZ84ydv-56" value="&lt;div style=&quot;&quot;&gt;奖赏&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2200" y="1560" width="80" height="40" as="geometry" />
+          <mxGeometry x="2200" y="1480" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JtWcP5gSLX260bZ84ydv-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="JtWcP5gSLX260bZ84ydv-60" target="JtWcP5gSLX260bZ84ydv-66">
           <mxGeometry relative="1" as="geometry" />
@@ -671,37 +671,58 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JtWcP5gSLX260bZ84ydv-60" value="&lt;div style=&quot;&quot;&gt;创造的快乐&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2361" y="1400" width="80" height="40" as="geometry" />
+          <mxGeometry x="2361" y="1320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JtWcP5gSLX260bZ84ydv-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JtWcP5gSLX260bZ84ydv-62" target="JtWcP5gSLX260bZ84ydv-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JtWcP5gSLX260bZ84ydv-62" value="&lt;div style=&quot;&quot;&gt;消费的快乐&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2361" y="1480" width="80" height="40" as="geometry" />
+          <mxGeometry x="2361" y="1400" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JtWcP5gSLX260bZ84ydv-64" value="&lt;div style=&quot;&quot;&gt;拉高阈值&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2360" y="1560" width="80" height="40" as="geometry" />
+          <mxGeometry x="2360" y="1480" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JtWcP5gSLX260bZ84ydv-66" value="&lt;div style=&quot;&quot;&gt;迁移&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2361" y="1320" width="80" height="40" as="geometry" />
+          <mxGeometry x="2361" y="1240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JtWcP5gSLX260bZ84ydv-69" value="&lt;div style=&quot;&quot;&gt;忘记时间&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1720" y="1360" width="80" height="40" as="geometry" />
+          <mxGeometry x="1720" y="1280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JtWcP5gSLX260bZ84ydv-70" value="&lt;div style=&quot;&quot;&gt;异常专注&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1720" y="1440" width="80" height="40" as="geometry" />
+          <mxGeometry x="1720" y="1360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JtWcP5gSLX260bZ84ydv-71" value="&lt;div style=&quot;&quot;&gt;集中当下&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1720" y="1520" width="80" height="40" as="geometry" />
+          <mxGeometry x="1720" y="1440" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JtWcP5gSLX260bZ84ydv-75" value="&lt;div style=&quot;&quot;&gt;解决感兴趣、有点难度的问题&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2520" y="1320" width="160" height="40" as="geometry" />
+          <mxGeometry x="2520" y="1240" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JtWcP5gSLX260bZ84ydv-76" value="&lt;div style=&quot;&quot;&gt;设定高一点的目标并解决他&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2520" y="1400" width="160" height="40" as="geometry" />
+          <mxGeometry x="2520" y="1320" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JtWcP5gSLX260bZ84ydv-77" value="&lt;div style=&quot;&quot;&gt;对比上一次的效果，尽量做得更好&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2520" y="1480" width="160" height="40" as="geometry" />
+          <mxGeometry x="2520" y="1400" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JtWcP5gSLX260bZ84ydv-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JtWcP5gSLX260bZ84ydv-81" target="JtWcP5gSLX260bZ84ydv-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JtWcP5gSLX260bZ84ydv-81" value="&lt;div style=&quot;&quot;&gt;经验值心态&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="1600" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JtWcP5gSLX260bZ84ydv-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JtWcP5gSLX260bZ84ydv-82" target="JtWcP5gSLX260bZ84ydv-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JtWcP5gSLX260bZ84ydv-82" value="&lt;div style=&quot;&quot;&gt;困难&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="1600" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JtWcP5gSLX260bZ84ydv-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JtWcP5gSLX260bZ84ydv-84" target="JtWcP5gSLX260bZ84ydv-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JtWcP5gSLX260bZ84ydv-84" value="&lt;div style=&quot;&quot;&gt;挑战&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="1600" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JtWcP5gSLX260bZ84ydv-85" value="&lt;div style=&quot;&quot;&gt;经验值&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2040" y="1600" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
