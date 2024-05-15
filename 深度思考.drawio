@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-15T04:19:21.802Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="a6j79SD11he9WorBXVM7" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-15T04:25:37.699Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="jyqpYZh9J1uoTcfccWgr" version="24.4.0" type="github">
   <diagram name="第 1 页" id="Bhi-YJKGWDIUIVYYXpNB">
-    <mxGraphModel dx="934" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="882" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -400,6 +400,12 @@
         </mxCell>
         <mxCell id="54HRrT9jYkRluZyecS1h-157" value="借鉴参考别人的做法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="1520" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="54HRrT9jYkRluZyecS1h-159" value="任务心态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1201" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="54HRrT9jYkRluZyecS1h-160" value="实验心态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1201" y="200" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
