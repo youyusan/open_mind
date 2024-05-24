@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-22T10:15:55.520Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="c_odJZUGBdMXm1rayo0k" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-24T04:03:08.299Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="D3HIMKkLYwDaWQB6j2YX" version="24.4.4" type="github">
   <diagram name="第 1 页" id="Bhi-YJKGWDIUIVYYXpNB">
-    <mxGraphModel dx="836" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="635" dy="332" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -736,19 +736,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q2o74quNVUf6hi3BCExd-82" value="思维模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="1160" width="80" height="40" as="geometry" />
+          <mxGeometry x="1320" y="1400" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q2o74quNVUf6hi3BCExd-83" value="认知世界&lt;br&gt;的模式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1159" y="1120" width="80" height="40" as="geometry" />
+          <mxGeometry x="1159" y="1360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q2o74quNVUf6hi3BCExd-84" value="思考问题&lt;br&gt;的习惯" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1159" y="1200" width="80" height="40" as="geometry" />
+          <mxGeometry x="1159" y="1440" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q2o74quNVUf6hi3BCExd-85" value="事物本质" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="1080" width="80" height="40" as="geometry" />
+          <mxGeometry x="1320" y="1320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q2o74quNVUf6hi3BCExd-89" value="简单适用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="1240" width="80" height="40" as="geometry" />
+          <mxGeometry x="1320" y="1480" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q2o74quNVUf6hi3BCExd-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="q2o74quNVUf6hi3BCExd-91" target="q2o74quNVUf6hi3BCExd-94">
           <mxGeometry relative="1" as="geometry" />
