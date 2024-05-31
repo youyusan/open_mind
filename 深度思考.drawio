@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-31T03:44:02.988Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="MmKPDVGQBgdKerfbeYqZ" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-31T03:58:46.522Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="hxMXonAwGqgVgBFOuAQu" version="24.4.8" type="github">
   <diagram name="第 1 页" id="Bhi-YJKGWDIUIVYYXpNB">
-    <mxGraphModel dx="1222" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1059" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1130,6 +1130,39 @@
         </mxCell>
         <mxCell id="QnMYkz7UDC8hXAW0SIvg-66" value="去极化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="2240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QnMYkz7UDC8hXAW0SIvg-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QnMYkz7UDC8hXAW0SIvg-68" target="QnMYkz7UDC8hXAW0SIvg-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QnMYkz7UDC8hXAW0SIvg-68" value="生命" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="2280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QnMYkz7UDC8hXAW0SIvg-75" value="涌动" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QnMYkz7UDC8hXAW0SIvg-69" target="QnMYkz7UDC8hXAW0SIvg-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QnMYkz7UDC8hXAW0SIvg-69" value="时间之流" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="2280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QnMYkz7UDC8hXAW0SIvg-70" value="事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="2200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QnMYkz7UDC8hXAW0SIvg-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QnMYkz7UDC8hXAW0SIvg-71" target="QnMYkz7UDC8hXAW0SIvg-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QnMYkz7UDC8hXAW0SIvg-71" value="生活" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="2120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QnMYkz7UDC8hXAW0SIvg-80" value="接触" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QnMYkz7UDC8hXAW0SIvg-72" target="QnMYkz7UDC8hXAW0SIvg-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QnMYkz7UDC8hXAW0SIvg-72" value="一叶小舟" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="2120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QnMYkz7UDC8hXAW0SIvg-73" value="接触" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="2120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QnMYkz7UDC8hXAW0SIvg-79" value="接触" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="2120" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
