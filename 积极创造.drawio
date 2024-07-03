@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-03T07:41:03.793Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ssUi97IFj93T0ToU1PVt" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-03T07:45:50.397Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="um5fTtvapy3WCN361IxM" version="24.6.4" type="github">
   <diagram name="第 1 页" id="1Dq5mLwgWZH4jtWMgoI4">
-    <mxGraphModel dx="588" dy="307" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="690" dy="361" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -390,7 +390,7 @@
         <mxCell id="nZ_os0Dgpj8ZyoIkXnrq-98" value="消费主义陷阱" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="919.5" y="520" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nZ_os0Dgpj8ZyoIkXnrq-104" value="如果全世界没有人知道我拥有了它，我还会想要购买吗？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nZ_os0Dgpj8ZyoIkXnrq-104" value="如果全世界没有人知道我拥有了它，我还会想要购买它吗？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="440" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nZ_os0Dgpj8ZyoIkXnrq-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.903;entryY=1.084;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nZ_os0Dgpj8ZyoIkXnrq-68" target="nZ_os0Dgpj8ZyoIkXnrq-104">
