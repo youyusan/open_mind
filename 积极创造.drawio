@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-04T15:59:58.929Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="zQ_JlF-rhcdhR5xvZXgs" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-05T03:17:10.161Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="BOV4DqPvEVX-iHF0VEc7" version="24.6.4" type="github">
   <diagram name="第 1 页" id="1Dq5mLwgWZH4jtWMgoI4">
-    <mxGraphModel dx="794" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="934" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -453,7 +453,7 @@
         <mxCell id="nZ_os0Dgpj8ZyoIkXnrq-118" value="学习成长&lt;br&gt;事业目标" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="1560.5" y="200" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nZ_os0Dgpj8ZyoIkXnrq-119" value="快起快感和&lt;br&gt;愉悦感" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+        <mxCell id="nZ_os0Dgpj8ZyoIkXnrq-119" value="快感和&lt;br&gt;愉悦感" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="1720" y="80" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nZ_os0Dgpj8ZyoIkXnrq-125" value="长期稳定满足和归属感" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
